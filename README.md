@@ -1,5 +1,4 @@
-# সৃজনশীল তরুণ সংঘ
-SRIJONSHIL TARUN SHANGHA — GitHub Pages
+# সৃজনশীল তরুণ সংঘ — GitHub Pages
 
 এই ফোল্ডারটি GitHub Pages-এর জন্য প্রস্তুত।
 
